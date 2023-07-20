@@ -38,6 +38,14 @@ https://github.com/mabyre/silex-web1/commit/9bafca96777f8935cfc842efba92955ad2c9
 
 Each time I add an element a section or a button html became unreadable WHY !!!!?
 
+Is it redhibitory ... 
+
+May be not, because Silex does not refactor all code, thanks to god !
+
+But I was very scared.
+
+That's All Folks
+
 
 
 
