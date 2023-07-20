@@ -1,4 +1,4 @@
-# Silex-Web1
+# Silex-web1
 
 Is for create html  web site with **Silex**.
 
@@ -12,5 +12,18 @@ Into editor.silex.me it's possible to open your repo Github when grant access th
 
 But commit subject will always be "Batch update"
 
-## Edit and publish into DropBox update site by Git
+<img style="margin: 10px" src="Images/2023-07-19_18h33_17.png" alt="GitHub Pages" />
+
+## Edit and publish into DropBox update site by Git Fork
+
+There for I have my own Commit subject
+
+<img style="margin: 10px" src="Images/2023-07-19_18h22_11.png" alt="DropBox" />
+
+That's All Folks.
+
+
+
+
+
 
