@@ -26,6 +26,17 @@ Look at the commit
 
 https://github.com/mabyre/silex-web1/commit/2189a96cca5c842189cb7fb82652dd3e302c9ea5
 
+## Why Silex has no future
+
+Just because it's takes Html has shit !
+
+So tupid to create a html generator that make htmi unreadable !
+
+Look at commit 
+
+https://github.com/mabyre/silex-web1/commit/9bafca96777f8935cfc842efba92955ad2c950f4
+
+Each time I add an element a section or a button html became unreadable WHY !!!!?
 
 
 
