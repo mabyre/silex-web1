@@ -20,7 +20,13 @@ There for I have my own Commit subject
 
 <img style="margin: 10px" src="Images/2023-07-19_18h22_11.png" alt="DropBox" />
 
-That's All Folks.
+## Change Site's Title by Settings
+
+Look at the commit 
+
+https://github.com/mabyre/silex-web1/commit/2189a96cca5c842189cb7fb82652dd3e302c9ea5
+
+
 
 
 
